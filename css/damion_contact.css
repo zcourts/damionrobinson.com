@@ -1,0 +1,57 @@
+
+/*contacts- autobiography*/
+h4, .h4 {
+    font-size: 18px;
+    font-weight: 800;
+}
+.col-md-12 {
+    width: 74%;
+    padding-top: 5em;
+}
+
+.thick-left-divider {
+    top: 14.5em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 2px;
+    position: relative;
+    float: left;
+    background-color: #000;
+    padding-left: 20px;
+    clear: both;
+    width: 100%;
+}
+.thick-divider {
+    top: 0.5em;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    height: 2px;
+    position: relative;
+    float: left;
+    background-color: #000;
+    padding-left: 20px;
+    clear: both;
+    width: 100%;
+}
+.divider-contents {
+    margin-top: -6px;
+    margin-bottom: 10px;
+    height: 1px;
+    position: relative;
+    float: left;
+    width: 100%;
+    background-color: #dcdcdc;
+    padding-left: 20px;
+}
+
+.divider-copyright{
+    margin-top: 54px;
+    margin-bottom: 10px;
+    height: 1px;
+    position: relative;
+    float: left;
+    width: 100%;
+    background-color: #dcdcdc;
+    padding-left: 20px;
+}
+

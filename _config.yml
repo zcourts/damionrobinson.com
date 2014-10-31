@@ -1,0 +1,11 @@
+# Site settings
+title: Damion Robinson
+email: damionjr@msn.com
+description: > Personal website and protfolio.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://damionrobinson.com" # the base hostname & protocol for your site
+twitter_username: damionjr1994
+github_username:  zcourts
+
+# Build settings
+markdown: kramdown
