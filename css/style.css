@@ -149,7 +149,14 @@ h3 {
 
 h7 a {
     font-size: 14px;
-    color:whitesmoke;
+    color: whitesmoke;
+    text-decoration-line: none;
+    text-decoration: none;
+    text-align: center;
+}
+h7 a hover: {
+    font-size: 14px;
+    color: blue;
     text-decoration-line: none;
     text-decoration: none;
     text-align: center;
