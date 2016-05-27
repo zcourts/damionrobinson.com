@@ -148,15 +148,16 @@ h3 {
 }
 
 h7 a {
-    font-size: 14px;
+    font-size: 10p;
     color: whitesmoke;
     text-decoration-line: none;
     text-decoration: none;
     text-align: center;
 }
-a.downlaod hover{
-    font-size: 30px;
-    color: blue;
+
+h7 a.downlaod:hover {
+    font-size: 14px;
+    color:  cadetblue;
 }
 
 .main_box {
