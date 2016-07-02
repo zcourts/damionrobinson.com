@@ -38,7 +38,6 @@ nav a:hover {
 	box-shadow: none;
 }
 
-
 .heading >hr {
 	border-top-color: #1px solid black;
 	width: 20em;
@@ -83,7 +82,7 @@ nav a:hover {
 }
 
 
-/* Projects */
+/* Projects Section*/
 
 div.img {
 	margin: 5px;
