@@ -1,0 +1,106 @@
+@font-face {
+	font-family: GothamRounded-Bold;
+	src: uri(fonts/GothamRounded-Bold.otf);
+}
+
+@font-face {
+	font-family: GothamRounded-Medium;
+	src: uri(fonts/GothamRounded-Medium.otf);
+}
+
+body {
+	font-family: GothamRounded-Bold;
+	color: #004652;
+}
+
+body p {
+	font-family: GothamRounded-Medium;
+	color: #464444;
+}
+
+
+.container {
+	padding: 0px;
+}
+
+.nav>li>a {
+	height: 20px;
+}
+
+nav a:hover {
+	background-color: none;
+	color: gray;
+	cursor: pointer;
+}
+
+.navbar-default {
+	background: white;
+	box-shadow: none;
+}
+
+.heading >hr {
+	border-top-color: #1px solid black;
+	width: 20em;
+	margin-top: 1px;
+	margin-bottom: 3px;
+}
+
+.heading> h1 {
+	font-size: 37px
+}
+
+.heading > p {
+	font-size: 20px
+}
+
+.heading {
+	padding-top: 70px;
+/*	padding-bottom: 48px;*/
+	/*	background: none;	*/
+}
+
+#info h3 {
+	font-size: 15px;
+	margin-top: 5px;
+}
+
+#info h5 {
+	margin-bottom: 0px;
+}
+
+#info p {
+	font-family: GothamRounded-Medium;
+}
+
+#info hr {
+	margin-bottom: 1px;
+	border-bottom: 1px solid white;
+}
+
+.col-lg-4 {
+	width: 22.333333%;
+}
+
+
+/* Projects Section*/
+
+div.img {
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 180px;
+}
+
+div.img:hover {
+	border: 1px solid #777;
+}
+
+div.img img {
+	width: 100%;
+	height: auto;
+}
+
+div.desc {
+	padding: 15px;
+	text-align: center;
+}
