@@ -28,6 +28,10 @@ $(document).ready(function () {
 
 // Lazy load
 
-$("img.lazy").lazyload({
-    effect: "fadeIn"
+$(document).ready(function () {
+
+    $("img.lazy").lazyload({
+        effect : "fadeIn"
+    });
+
 });
