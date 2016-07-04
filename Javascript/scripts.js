@@ -1,3 +1,11 @@
+
+// Lazy load
+$("img.lazy").lazyload({
+    effect : "fadeIn"
+});
+
+
+
 // Empty JS for your own code to be here
 
 $(document).ready(function () {
@@ -72,8 +80,3 @@ function showDivs(n) {
 
 // End Home Page transition
 
-
-// Lazy load
-$("img.lazy").lazyload({
-    effect : "fadeIn"
-});
