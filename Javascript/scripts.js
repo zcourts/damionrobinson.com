@@ -77,4 +77,3 @@ function showDivs(n) {
 $("img.lazy").lazyload({
     effect : "fadeIn"
 });
-   
