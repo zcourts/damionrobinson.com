@@ -55,6 +55,7 @@ nav a:hover {
     -o-box-shadow: none;
 }
 
+/*noinspection ALL*/
 .heading > hr {
     border-top-color: 1px solid black;
     -moz-border-top-colors: 1px solid black;
