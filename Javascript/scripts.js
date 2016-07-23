@@ -32,4 +32,18 @@ $(document).ready(function () {
     });
 });
 
+// Page load
 
+$( document ).ready(function() {
+    console.log( "document loaded" );
+});
+
+$( window ).load(function() {
+    console.log( "window loaded" );
+});
+
+//Page Fadein
+
+$(document).ready(function(){
+    $('#page_effect').fadeIn(1000);
+});
